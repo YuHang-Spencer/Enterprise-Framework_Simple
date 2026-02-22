@@ -1,7 +1,22 @@
 # EventBus Demo
+# Enterprise Framework Simulation
 
-Learning project for:
+A learning project for building a small C# backend framework.
 
-- async/await
-- thread safety
-- event-driven architecture
+## Architecture
+
+- EventBus
+- Async/Await
+- Thread-safe publish
+- Handler isolation
+
+## Tech
+
+- .NET
+- C#
+- Tasks
+- Concurrent Collections
+
+## Author
+
+Learning backend architecture.
